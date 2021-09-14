@@ -1,0 +1,15 @@
+C:\Users\Univer\source\repos\Ole\obj\Debug\Ole.csprojAssemblyReference.cache
+C:\Users\Univer\source\repos\Ole\obj\Debug\MainWindow.g.cs
+C:\Users\Univer\source\repos\Ole\obj\Debug\App.g.cs
+C:\Users\Univer\source\repos\Ole\obj\Debug\Ole_MarkupCompile.cache
+C:\Users\Univer\source\repos\Ole\obj\Debug\Ole_MarkupCompile.lref
+C:\Users\Univer\source\repos\Ole\bin\Debug\Ole.exe.config
+C:\Users\Univer\source\repos\Ole\bin\Debug\Ole.exe
+C:\Users\Univer\source\repos\Ole\bin\Debug\Ole.pdb
+C:\Users\Univer\source\repos\Ole\obj\Debug\MainWindow.baml
+C:\Users\Univer\source\repos\Ole\obj\Debug\Ole.g.resources
+C:\Users\Univer\source\repos\Ole\obj\Debug\Ole.Properties.Resources.resources
+C:\Users\Univer\source\repos\Ole\obj\Debug\Ole.csproj.GenerateResource.cache
+C:\Users\Univer\source\repos\Ole\obj\Debug\Ole.csproj.CoreCompileInputs.cache
+C:\Users\Univer\source\repos\Ole\obj\Debug\Ole.exe
+C:\Users\Univer\source\repos\Ole\obj\Debug\Ole.pdb
